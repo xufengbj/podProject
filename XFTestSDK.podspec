@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.license      = { :type => 'BSD', :text => license }
 
-  s.source       = { :git => 'https://github.com/xufengbj/podProject.git', :tag => "v#{s.version}" }
+  s.source       = { :git => 'https://github.com/xufengbj/podProject.git', :tag => "#{s.version}" }
   s.source_files = 'YLYKPodTestModel.{h,m}'
   s.framework    = 'SystemConfiguration'
 
