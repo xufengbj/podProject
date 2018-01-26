@@ -2,4 +2,4 @@
 ```
 发布到cocoaPod上的文件类库
 ```
-![](https://github.com/xufengbj/podProject/tree/master/screenShot/1.png)
+![](chttps://github.com/xufengbj/podProject/tree/master/screenShot/1.png)
