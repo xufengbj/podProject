@@ -2,11 +2,11 @@
 ```
 发布到cocoaPod上的文件类库
 ```
-![图片未加载](https://github.com/xufengbj/podProject/tree/master/screenShot/1.png)
+![image](https://github.com/xufengbj/podProject/blob/master/screenShot/1.png)
 
 ```
 图片二
 ```
 
-![图片未加载](https://github.com/xufengbj/podProject/tree/master/screenShot/2.png)
+![image](https://github.com/xufengbj/podProject/blob/master/screenShot/2.png)
 
